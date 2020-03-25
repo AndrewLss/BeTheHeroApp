@@ -1,0 +1,11 @@
+Primeiro Dia:
+
+- Apresentar aplicação
+- Configurar ambiente de desenvolvimento
+	Node.js & NPM
+	Visual Studio Code
+- Entender sobre back-end & front-end
+- Criar projeto com Node.js
+- Entender sobre React & SPA
+- Criar projeto com ReactJS
+- Entener sobre React Ntive & Expo

@@ -1,0 +1,13 @@
+Segundo Dia
+
+- Node.js & Express
+	Rotas e Recursos
+	Metodos HTTP
+	tipos e parâmetros
+- Configurando Nodemom
+- Utilizando o Insomnia
+- Diferenças entre bancos de dados
+- Pensando nas entidades e funcionalidades
+- Construção do Back-end
+- Adicionando módulo CORS
+- Enviando back-end ao Github
