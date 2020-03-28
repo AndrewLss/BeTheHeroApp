@@ -1,0 +1,18 @@
+Terceiro dia:
+
+- Limpando a estrutura
+- Conceitos do React
+	* componente
+	* Jsx
+	* Propriedades
+	* Estado
+	* Imutabilidade
+- Página de login
+- Configurando Rotas
+- Cadastro de ONGs
+- Listagem de casos
+- Cadastro de um novo caso
+- Conectando aplicação à API
+- Enviar projeto ao GitHub
+	
+
